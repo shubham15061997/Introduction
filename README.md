@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shubham
+- 👋 Hi, I’m @shubham_srivastava
 - 👀 I’m interested in Verilog,System_Verilog,_UVM,VLSI_Design,C,C+ and Perl_scripting.
 - 🌱 I’m currently learning Verilog.
 - 💞️ I’m looking to collaborate on VLSI Design and Programming related projects.
